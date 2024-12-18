@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(20, 20, 20);
+    overflow-x: hidden;
+}
+
+#contenedorGeneral {
+    height: 100vh;
+}
+
+#header {
+    background: rgb(61, 61, 61);
+    height: 10vh;
+}
+
+#columnaLarga {
+    background: rgb(31, 31, 31);
+    height: auto;
+}
+
+#myCarousel {
+    margin-top: 1%;
+    height: auto;
+}
+
+#contenedorNaranja {
+    height: auto;
+    padding: 1%;
+}
+
+#naranja {
+    background-color: rgb(54, 54, 54);
+    height: auto;
+}
+
+#contenedorAzules {
+    padding: 1%;
+    height: auto;
+}
+
+#azul {
+    background-color: rgb(43, 43, 43);
+    color: azure;
+    height: auto;
+}
+
+#footer {
+    background-color: rgb(61, 61, 61);
+    height: 5vh;
+}
